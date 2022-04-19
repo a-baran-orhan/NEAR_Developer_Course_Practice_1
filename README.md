@@ -3,16 +3,16 @@
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
-
+https://user-images.githubusercontent.com/78223231/164109825-8026ccea-809b-4d8c-b131-a7b4170327a5.png
+https://user-images.githubusercontent.com/78223231/164109851-6a744274-b8c7-4d49-96d3-037e58d1ae30.png
+https://user-images.githubusercontent.com/78223231/164109865-28255143-d596-4a09-b98b-42e1f33a87c2.png
 This repository includes a complete project structure for AssemblyScript contracts targeting the NEAR platform.
 
 The example here is very basic.  It's a simple contract demonstrating the following concepts:
 - a single contract
 - the difference between `view` vs. `change` methods
 - basic contract storage
-https://user-images.githubusercontent.com/78223231/164109825-8026ccea-809b-4d8c-b131-a7b4170327a5.png
-https://user-images.githubusercontent.com/78223231/164109851-6a744274-b8c7-4d49-96d3-037e58d1ae30.png
-https://user-images.githubusercontent.com/78223231/164109865-28255143-d596-4a09-b98b-42e1f33a87c2.png
+
 
 
 There are 2 AssemblyScript contracts in this project, each in their own folder:
